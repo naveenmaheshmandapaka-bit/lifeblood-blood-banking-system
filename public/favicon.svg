@@ -1,11 +1,5 @@
-function Footer() {
-  return (
-    <footer className="footer">
-      <h2> LifeBlood</h2>
-      <p>Connecting donors, hospitals and blood banks to save lives.</p>
-      <p>© 2026 LifeBlood Blood Banking System</p>
-    </footer>
-  );
-}
-
-export default Footer;
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <rect width="48" height="48" rx="10" fill="#b71c1c"/>
+  <path fill="#fff" d="M24 7C24 7 12 21 12 29a12 12 0 0 0 24 0C36 21 24 7 24 7Zm0 28a7 7 0 0 1-7-7c0-3.8 4.2-10.2 7-14 2.8 3.8 7 10.2 7 14a7 7 0 0 1-7 7Z"/>
+  <circle cx="24" cy="29" r="4" fill="#b71c1c"/>
+</svg>
